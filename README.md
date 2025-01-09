@@ -4,7 +4,7 @@
 
 **Examigo** is a personalized learning assistant designed to streamline your study process. Whether you're tackling new vocabulary, brushing up on tenses, or improving your writing skills, Examigo has you covered. Proven by data to boost test scores, this app is especially helpful for last-hour learners looking for effective reinforcement.
 
-Live preview: (https://interactive-chatbot-qb2u.onrender.com)
+**Live preview: (https://interactive-chatbot-qb2u.onrender.com)**
 ![v2](https://github.com/user-attachments/assets/5639576e-f8b8-4a3e-8e35-2f75b51791ce)
 ---
 
