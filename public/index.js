@@ -9,5 +9,5 @@ document.getElementById("participant-form").addEventListener("submit", function 
     return;
   }
 
-  window.location.href = "flow.html";
+  window.location.href = "chat.html";
 });
