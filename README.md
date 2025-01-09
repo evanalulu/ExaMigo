@@ -79,8 +79,3 @@
 - **Multi-Language Support**: Expand beyond Spanish to include more languages and subjects.
 - **Progress Analytics**: Provide detailed visualizations of learning trends and performance.
 - **Mobile App**: Launch a mobile version for on-the-go study sessions.
-
----
-
-### Built by [Your Team/Your Name]  
-Transforming the way students learn, one flashcard at a time.
