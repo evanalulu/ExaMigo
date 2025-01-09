@@ -176,11 +176,6 @@ app.post("/generate-question", async (req, res) => {
     console.log("Request body received:", req.body);
     const { courseworkLevel, history = [], participantID, topics, questionTypes, difficulty } = req.body;
 
-    // Validate the required fields
-    // if (!participantID || !topics || !questionTypes || !difficulty) {
-    //   return res.status(400).json({ error: "Missing required fields" });
-    // }
-
     // Construct the prompt based on user selections
     const prompt = `
       I’m practicing for the ${courseworkLevel}}. 
